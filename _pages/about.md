@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>Washington University in St. Louis
+subtitle: <a href='#'>Affiliation: </a>Washington University in St. Louis
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>1 Brooking Drive</p>
     <p>St. Louis, MO, 63130</p>
